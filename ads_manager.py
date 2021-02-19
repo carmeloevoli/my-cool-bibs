@@ -49,8 +49,10 @@ def read_papers(filename):
                 papers[reference] = bibcode
             line_count += 1
     return dict(sorted(papers.items(), key=lambda x: x[0].lower()))
-    
+
+#filename = "2020-crams-heavy.csv"
 filename = "2020-positron-pwne.csv"
+#filename = "2021-hermes.csv"
 
 #show_input_file(filename)
 
