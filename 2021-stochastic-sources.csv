@@ -1,22 +1,75 @@
 citation,adscode,comment
+H.AMS02,2015PhRvL.114q1103A,
+H.CALET,2019PhRvL.122r1102A,
+HHe.CREAM,2017ApJ...839....5Y,
+H.DAMPE,2019SciA....5.3793A,
+HHe.ICECUBE-ICETOP,2019PhRvD.100h2002A,
+HHe.NUCLEON,2019AdSpR..64.2546G,
+HHe.PAMELA,2011Sci...332...69A,
+H.KASCADE,2005APh....24....1A,
+He.AMS02,2021PhR...894....1A,
+He.DAMPE,2021PhRvL.126t1102A,
+electrons.AMS02,2019PhRvL.122j1101A,
+electrons.PAMELA,2011PhRvL.106t1101A,
+positrons.AMS02,2019PhRvL.122d1102A,
+positrons.PAMELA,2013PhRvL.111h1102A,
+leptons.FERMI,2017PhRvD..95h2007A,
+leptons.HESS,2009A&A...508..561A,
+leptons.CALET,2018PhRvL.120z1102A,
+leptons.DAMPE,2017Natur.552...63D,
+leptons.VERITAS,2018PhRvD..98f2004A,
+anisotropy.ARGO,2018ApJ...861...93B,
+anisotropy.EASTOP,2003ICRC....1..183A,
+anisotropy.HAWC,2018ApJ...865...57A,
+anisotropy.TIBET,2005ApJ...626L..29A,
+ATNF.cat,2012AdSpR..49.1313F,"A census of high-energy observations of Galactic supernova remnants"
+Ackermann2010prd,2010PhRvD..82i2003A,
+Ahlers2016prl,2016PhRvL.117o1103A,"Deciphering the Dipole Anisotropy of Galactic Cosmic Rays"
+AmatoBlasi2018,2018AdSpR..62.2731A,"Cosmic ray transport in the Galaxy: A review"
+Arons2003apj,2003ApJ...589..871A,
 Bernard2012aa,2012A&A...544A..92B,"Variance of the Galactic nuclei cosmic ray flux"
+Blasi2010mnras,2010MNRAS.402.2807B,
 Blasi2012composition,2012JCAP...01..010B,"Diffusive propagation of CRs from SNR in the Galaxy: I"
 Blasi2012anisotropy,2012JCAP...01..011B,"Diffusive propagation of CRs from SNR in the Galaxy: II"
+Bykov2017ssrv,2017SSRv..207..235B,
 Coste2012aa,2012A&A...539A..88C,"Constraining Galactic cosmic-ray parameters with Z le 2 nuclei"
+Cristofari2021aa,2021A&A...650A..62C,"Cosmic ray protons and electrons from supernova remnants"
 Delahaye2010aa,2010A&A...524A..51D,
+DiBernardo2013prl,2013PhRvL.111b1102G,
+Diesing2019prl,2019PhRvL.123g1101D,"Spectrum of Electrons Accelerated in Supernova Remnants"
+Dragicevich1999mnras,1999MNRAS.302..693D,
+Evoli2008jcap,2008JCAP...10..018E,"Cosmic ray nuclei, antiprotons and gamma rays in the galaxy: a new diffusion model"
 Evoli2018jcap,2018JCAP...07..006E,"DRAGON2xsecs"
-Evoli2020prd,2020PhRvD.101b3013E,
-Evoli2021prd,2021PhRvD.103h3010E,
-Fang2020arxiv,2020arXiv200715601F,KN
+Evoli2019prd,2019PhRvD..99j3023E,"Galactic cosmic rays after the AMS-02 observations"
+Evoli2020prd,2020PhRvD.101b3013E,"AMS-02 beryllium data and its implication for cosmic ray transport"
+Evoli2020prl,2020PhRvL.125e1101E,"Signature of Energy Losses on the Cosmic Ray Electron Spectrum"
+Evoli2021prd,2021PhRvD.103h3010E,"Galactic factories of cosmic-ray electrons and positrons"
+FaucherGiguere2006apj,2006ApJ...643..332F,"Birth and Evolution of Isolated Radio Pulsars"
+Fang2021chphl,2021ChPhL..38c9801F,
+Ferriere2001review,2001RvMP...73.1031F,"The interstellar environment of our galaxy"
+Genolini2017aa,2017A&A...600A..68G,"Stable laws and cosmic ray physics"
 Kafexhiu2014prd,2014PhRvD..90l3014K,"Parametrization of gamma-ray production cross sections for p p interactions"
+Kobayashi2004apj,2004ApJ...601..340K,"The Most Likely Sources of High-Energy Cosmic-Ray Electrons in Supernova Remnants"
+Korsmeier2021prd,2021PhRvD.103j3016K,"Implications of lithium to oxygen AMS-02 spectra on our understanding of cosmic-ray diffusion"
+Kotera2015jcap,2015JCAP...08..026K,
 Lagutin1995jetp,1995JETP...81..825L,
 Lee1979apj,1979ApJ...229..424L,
 Lorimer2006mnras,2006MNRAS.372..777L,
-Mertsch2011jcap,2011JCAP...02..031M,
-Mertsch2018jcap,2018JCAP...11..045M,
-Moskalenko1998apj,1998ApJ...509..212S,"Propagation of Cosmic-Ray Nucleons in the Galaxy"
-Planck2020aa,2020A&A...641A...6P,
+Manconi2017jcap,2017JCAP...01..006M,"Dipole anisotropy in cosmic electrons and positrons: inspection on local sources"
+Mertsch2011jcap,2011JCAP...02..031M,"Cosmic ray electrons and positrons from discrete stochastic sources"
+Mertsch2018jcap,2018JCAP...11..045M,"Stochastic cosmic ray sources and the TeV break in the all-electron spectrum"
+Morlino2021arxiv,2021arXiv210606488M,"Cosmic-ray electrons released by supernova remnants"
+Moskalenko1998apja,1998ApJ...509..212S,"Propagation of Cosmic-Ray Nucleons in the Galaxy"
+Moskalenko1998apjb,1998ApJ...493..694M,"Production and Propagation of Cosmic-Ray Positrons and Electrons"
+NoguerasLara2021arxiv,2021arXiv210604529N,
+Phan2021arxiv,2021arXiv210500311P,
+Planck2020aa,2020A&A...641A...6P,"Planck 2018 results. VI. Cosmological parameters"
 Porter2005,2005ICRC....4...77P,"A new estimate of the Galactic interstellar radiation field between 0.1um and 1000um"
-Popescu2017mnras,2017MNRAS.470.2539P,
+Popescu2017mnras,2017MNRAS.470.2539P,"A radiation transfer model for the Milky Way: I. Radiation fields and application to high-energy astrophysics"
 Ptuskin2006adspr,2006AdSpR..37.1909P,"Effect of random nature of cosmic ray sources"
+Rozwadowska2021newa,2021NewA...8301498R,"On the rate of core collapse supernovae in the milky way"
 TheBible,1990acr..book.....B,
+Vink2012aarv,2012A&ARv..20...49V,"Supernova remnants: the X-ray perspective"
+Weinrich2020aaa,2020A&A...639A..74W,"Galactic halo size in the light of recent AMS-02 data"
+Weinrich2020aab,2020A&A...639A.131W,"Combined analysis of AMS-02 (Li,Be,B)/C, N/O, 3He, and 4He data"
+Zirakashvili2007aa,2007A&A...465..695Z,"Analytical solutions for energy spectra of electrons accelerated by NR shock-waves in shell type SNRs"
