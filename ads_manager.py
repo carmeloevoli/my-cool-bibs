@@ -50,10 +50,8 @@ def read_papers(filename):
             line_count += 1
     return dict(sorted(papers.items(), key=lambda x: x[0].lower()))
 
-#filename = "2021-handbook.csv"
-#filename = "2020-positron-pwne.csv"
-#filename = "2021-stochastic-sources.csv"
-filename = "2022-varenna.csv"
+filename = "2023-hebreaks.csv"
+#filename = "2022-varenna.csv"
 
 #show_input_file(filename)
 
